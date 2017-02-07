@@ -14,9 +14,6 @@
 
 2. Clone this repository
 
-    ```
-    $ git clone https://github.com/kciter/FBLiveAPISample-iOS
-    ```
 3. Open `FBLiveAPISample.xcworkspace`.
 
 4. Open `Info.plist` as Property List.
