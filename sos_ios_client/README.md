@@ -1,4 +1,4 @@
-<h1 align="center">FBLiveAPISample for iOS</h1>
+<h1 align="center">iOS client</h1>
 
 <div align="center">
 <img src="https://github.com/micklinISgood/SOS_extreme/blob/master/Images/app.jpeg?raw=true" width='30%'>
