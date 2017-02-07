@@ -1,4 +1,5 @@
 # SOS_extreme
+![SOS](https://github.com/micklinISgood/SOS_extreme/blob/master/Images/sos.png)
 ##Inspiration
 [link](https://maps.nyc.gov/crime/) Here is the map for NYC crime. As a resident in New York city, we are very concerned about our safety. Therefore, we created an app to save our lives in emergency situation.
 
