@@ -44,7 +44,7 @@
   <string>{human-readable reason for photo access}</string>
 ```
 
-6. Connect!<br>
+6.Connect!<br>
 <div align="center">
   <img src="https://github.com/micklinISgood/SOS_extreme/blob/master/Images/fb%20photo.png?raw=true" width='50%'>
   <img src="https://github.com/micklinISgood/SOS_extreme/blob/master/Images/fb%20live.png?raw=true" width='50%'>
